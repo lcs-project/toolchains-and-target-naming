@@ -20,14 +20,14 @@ The segments of a Canonical Target Name are:
 * The architecture of the target
 * The vendor of the target platform
 * The System, if any
-* The Environment.
+* The Environment, if any.
 
 The System or the Environment field may be omitted from any canonical target, but at least one must be present, as appropriate.
 
 An environment is information about the target. It may include:
 * A further discrimination of the system, such as an abi or standard library,
 * An object format specification, and
-* A abi subfield, for example, identifying the x32 abi for `x86_64`.
+* A abi subfield (for example, identifying the x32 abi for `x86_64`).
 
 Toolchains that support a target should accept the target in its canonical form.
 
@@ -56,4 +56,4 @@ The Toolchains and Target Naming Working Committee may make special publications
 * The name of canonical components, and
 * Additional canonicalization steps which need to be prescribed.
 
-Additionally, the Toolchains and Target Naming Working Committee should maintain the information above, except as to canonicalization steps, in a machine readable format, and may maintain computer programs which perform the translation of noncanonical targets (or a subset thereof) to canonical targets and support compiler toolchains and other programs that use canonical and noncanonical targets.
+Additionally, the Toolchains and Target Naming Working Committee should maintain the information above, except as to canonicalization steps, in a machine readable format. It may maintain computer programs which perform the translation of noncanonical targets (or a subset thereof) to canonical targets, and it may support compiler toolchains and other programs that use canonical and noncanonical targets.
