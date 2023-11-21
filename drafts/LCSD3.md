@@ -6,7 +6,7 @@ Targets: Toolchains and Target Naming  Working Committee
 
 Start Date: 2023-11-05
 
-Last Review Date:
+Last Review Date: 2023-11-19
 
 Last Revision Date: 2023-11-05
 
