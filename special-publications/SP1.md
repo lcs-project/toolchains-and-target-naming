@@ -60,7 +60,7 @@ Any Draft which targets this Working Committee, and any Special Publication made
 In the case of a Draft Publication or a Special Publication brought by any member of the working committee, but not by 2 or more, the member who brings the Draft Publication or Special Publication for Initial Acceptance may not second Initial Acceptance. 
 
 Members are discouraged from Objecting to Initial Acceptance of a Draft Publication or Special Publication on the specific contents of the specification, or on editorial grounds, other than serious structural concerns, and these concerns should be raised and addressed during Review. Reasons to object to Initial Acceptance may include:
-* Lack of currently available bandwitdh to review the Specification or Special Publication,
+* Lack of currently available bandwidth to review the Specification or Special Publication,
 * Lack of current interest in the subject matter of the Specification or Special Publication,
 * That any copyright, patent, or trademark notice, license or grant required is missing or unacceptable to the Working Committee or to the LCS Project,
 * That the Publication has either content or subject matter which violates either the LCS Project or Working Committee Code of Conduct,
