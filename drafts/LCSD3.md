@@ -6,13 +6,13 @@ Targets: Toolchains and Target Naming  Working Committee
 
 Start Date: 2023-11-05
 
-Last Review Date: 2023-11-19
+Last Review Date: 2024-06-18
 
-Last Revision Date: 2023-11-25
+Last Revision Date: 2024-06-18
 
-Revision Number: 1
+Revision Number: 2
 
-Copyright (C) 2023 Connor Horman. Copyright License in §5.
+Copyright (C) 2023-2024 Connor Horman. Copyright License in §4.
 
 ## §1 Canonical Target Names
 
